@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T16:55:49.345Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" version="21.7.2" etag="sCW8Cfeb4T9k19Y2pj8f" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T16:56:36.908Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="nvy5SrKN544DAgsJ38mP" version="21.7.2" type="github">
   <diagram name="Page-1" id="ZqUw15ghLxrdN4S6zym3">
-    <mxGraphModel>
+    <mxGraphModel dx="1026" dy="1792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nOJJc-J7_URhwtGYTWbG-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-760" width="780" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJJc-J7_URhwtGYTWbG-2" value="&lt;a href=&quot;https://www.cinemark.com/&quot;&gt;https://www.cinemark.com/&lt;/a&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.url;fillColor=#e0e0e0;strokeColor=#c0c0c0;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;spacingTop=2;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-750" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJJc-J7_URhwtGYTWbG-3" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.home;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-747.35" width="24" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJJc-J7_URhwtGYTWbG-4" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.reload;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-748.1" width="24" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJJc-J7_URhwtGYTWbG-5" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.forward;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-743" width="30" height="16.8" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJJc-J7_URhwtGYTWbG-6" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.backward;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-743" width="30" height="16.8" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJJc-J7_URhwtGYTWbG-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-700" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJJc-J7_URhwtGYTWbG-8" value="List of Movies" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJJc-J7_URhwtGYTWbG-9" value="Movie #1" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-640" width="105.5" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJJc-J7_URhwtGYTWbG-10" value="Movie #2" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-500" width="105.5" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJJc-J7_URhwtGYTWbG-11" value="Movie #3" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-360" width="105.5" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJJc-J7_URhwtGYTWbG-12" value="Movie #1" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="455" y="-655" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJJc-J7_URhwtGYTWbG-13" value="Movie #2" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="455" y="-521.56" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nOJJc-J7_URhwtGYTWbG-14" value="Movie #3" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="455" y="-381.56" width="90" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
