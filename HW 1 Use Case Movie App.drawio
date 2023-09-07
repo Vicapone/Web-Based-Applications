@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T15:32:47.899Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="nehnwyXFJlyoujSS1NIp" version="21.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-07T16:53:24.138Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="IPIa8oBpePan444dlNRo" version="21.7.2" type="github" pages="2">
   <diagram name="Case Model for Movie App" id="rJYcbHOW_Db5khMx7vtV">
-    <mxGraphModel dx="1434" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aOWwQxA4mWro5sSzSnNJ-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="710" height="710" as="geometry" />
+        </mxCell>
         <mxCell id="9VMVPIQP_T_gX5Tt2G8d-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="110" width="320" height="640" as="geometry" />
         </mxCell>
@@ -115,7 +118,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BvwbtTNKuN9WgcwE5k2p" name="WireFrame for Movie App">
-    <mxGraphModel dx="1434" dy="1927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="1792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
