@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T20:54:51.476Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="y8WhqLnub-R2vfBgk6Pr" version="21.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-07T01:42:15.405Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="QuJfeK3Jsq_FDUyjOGdA" version="21.7.2" type="github" pages="2">
   <diagram name="Case Model for Movie App" id="rJYcbHOW_Db5khMx7vtV">
     <mxGraphModel dx="1434" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BvwbtTNKuN9WgcwE5k2p" name="WireFrame for Movie App">
-    <mxGraphModel dx="1434" dy="1927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="1792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
